@@ -10,7 +10,7 @@
  * Return: int
 **/
 
-int main(int argc, char *argv[])
+int *_mul(int argc, char *argv[])
 {
 	unsigned long mul;
 	int i, j;
